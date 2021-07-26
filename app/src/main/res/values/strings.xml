@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">todo</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="criar_tarefa">Criar Tarefa</string>
+    <string name="title">Titulo</string>
+    <string name="not_task">Nenhuma Tarefa</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_edit">Editar</string>
+    <string name="desc_new_task">Nova Tarefa</string>
+    <string name="label_tasks">Tarefas</string>
+</resources>
